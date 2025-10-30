@@ -1,5 +1,5 @@
 # SQL-data-warehouse-project
-form ETL to analytics 
+from ETL to analytics 
 
 # Data Warehouse and Analytics Project
 
